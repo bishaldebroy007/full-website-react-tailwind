@@ -15,7 +15,7 @@ const NavBar = () => {
                         <SiOpencv size={40} className="bg-sky-500" />
 
                         <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-                            Flowbite
+                            Bishal's Portfolio
                         </span>
                     </a>
                     <div className="flex md:order-2">

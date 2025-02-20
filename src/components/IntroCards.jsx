@@ -5,7 +5,7 @@ const IntroCards = () => {
         <>
             <section className="bg-white ">
                 <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
-                    <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12 mb-8">
+                    <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg hover:dark:bg-gray-700 hover:shadow-lg transition-all duration-300 p-8 md:p-12 mb-8">
                         <a
                             href="#"
                             className="bg-blue-100 text-blue-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-blue-400 mb-2"
@@ -22,7 +22,7 @@ const IntroCards = () => {
                             Tutorial
                         </a>
                         <h1 className="text-gray-900 dark:text-white text-3xl md:text-5xl font-extrabold mb-2">
-                            How to quickly deploy a static website
+                            Aspiring Web Developer with a focus on React.
                         </h1>
                         <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-6">
                             Static websites are now used to bootstrap lots of websites and are
@@ -52,7 +52,7 @@ const IntroCards = () => {
                         </a>
                     </div>
                     <div className="grid md:grid-cols-3 gap-8">
-                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
+                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:dark:bg-gray-700 hover:shadow-lg transition-all duration-300 rounded-lg p-8 md:p-12">
                             <a
                                 href="#"
                                 className="bg-green-100 text-green-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-green-400 mb-2"
@@ -69,7 +69,7 @@ const IntroCards = () => {
                                 Design
                             </a>
                             <h2 className="text-gray-900 dark:text-white text-3xl font-extrabold mb-2">
-                                Start with Flowbite Design System
+                                Web Development with HTML, CSS & JavaScript.
                             </h2>
                             <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">
                                 Static websites are now used to bootstrap lots of websites and are
@@ -98,7 +98,7 @@ const IntroCards = () => {
                                 </svg>
                             </a>
                         </div>
-                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
+                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:dark:bg-gray-700 hover:shadow-lg transition-all duration-300 rounded-lg p-8 md:p-12">
                             <a
                                 href="#"
                                 className="bg-purple-100 text-purple-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-purple-400 mb-2"
@@ -121,7 +121,7 @@ const IntroCards = () => {
                                 Code
                             </a>
                             <h2 className="text-gray-900 dark:text-white text-3xl font-extrabold mb-2">
-                                Best react libraries around the web
+                                Web Development & Machine Learning with Python
                             </h2>
                             <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">
                                 Static websites are now used to bootstrap lots of websites and are
@@ -150,7 +150,7 @@ const IntroCards = () => {
                                 </svg>
                             </a>
                         </div>
-                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
+                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:dark:bg-gray-700 hover:shadow-lg transition-all duration-300 rounded-lg p-8 md:p-12">
                             <a
                                 href="#"
                                 className="bg-green-100 text-green-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-green-400 mb-2"
@@ -167,7 +167,7 @@ const IntroCards = () => {
                                 Design
                             </a>
                             <h2 className="text-gray-900 dark:text-white text-3xl font-extrabold mb-2">
-                                Start with Flowbite Design System
+                                Research Interest
                             </h2>
                             <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">
                                 Static websites are now used to bootstrap lots of websites and are
