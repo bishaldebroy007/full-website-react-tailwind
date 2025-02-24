@@ -3,6 +3,7 @@ import NavBar from './components/NavBar'
 import MyImage from './components/MyImage'
 import Footer from './components/Footer'
 import IntroCards from './components/IntroCards';
+import TimeLines from './components/TimeLines';
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
           <MyImage />
           <IntroCards />
         </div>
+        <TimeLines />
 
       </main>
 
