@@ -17,13 +17,13 @@ const TimeLines = () => {
                         </svg>
                     </span>
                     <h2 className="flex items-center mb-1 text-2xl font-semibold text-gray-900 dark:text-blue-950">
-                        Basic AI ChatBot{" "}
+                        My Updated Portfolio{" "}
                         <span className="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded-sm dark:bg-blue-900 dark:text-blue-300 ms-3">
                             Latest
                         </span>
                     </h2>
                     <time className="block mb-2 text-md font-normal leading-none text-gray-400 dark:text-gray-500">
-                        Released on January 13th, 2023
+                        Currently upder development.
                     </time>
                     <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
                         Get access to over 20+ pages including a dashboard layout, charts, kanban
@@ -43,7 +43,7 @@ const TimeLines = () => {
                             <path d="M14.707 7.793a1 1 0 0 0-1.414 0L11 10.086V1.5a1 1 0 0 0-2 0v8.586L6.707 7.793a1 1 0 1 0-1.414 1.414l4 4a1 1 0 0 0 1.416 0l4-4a1 1 0 0 0-.002-1.414Z" />
                             <path d="M18 12h-2.55l-2.975 2.975a3.5 3.5 0 0 1-4.95 0L4.55 12H2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2Zm-3 5a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z" />
                         </svg>{" "}
-                        Download ZIP
+                        Download Zip
                     </a>
                 </li>
                 <li className="mb-10 ms-6">
@@ -59,7 +59,7 @@ const TimeLines = () => {
                         </svg>
                     </span>
                     <h2 className="mb-1 text-2xl font-bold text-gray-900 dark:text-blue-950">
-                        Flowbite Figma v1.3.0
+                        Basic AI-Chat Bot
                     </h2>
                     <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
                         Released on December 7th, 2021

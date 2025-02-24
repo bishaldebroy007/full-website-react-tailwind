@@ -57,8 +57,9 @@ const AboutSection = () => {
                         role="tabpanel"
                         aria-labelledby="about-tab"
                     >
-                        <h2 className="mb-3 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white">
-                            Powering innovation &amp; trust at 200,000+ companies worldwide
+                        <h2 className="mb-3 text-2xl font-extrabold tracking-tight text-gray-900 dark:text-white">
+
+                            Internship at Penta Globals LTD.
                         </h2>
                         <p className="mb-3 text-gray-500 dark:text-gray-400">
                             Empower Developers, IT Ops, and business teams to collaborate at high
