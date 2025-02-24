@@ -17,12 +17,12 @@ const TimeLines = () => {
                         </svg>
                     </span>
                     <h2 className="flex items-center mb-1 text-2xl font-semibold text-gray-900 dark:text-blue-950">
-                        Flowbite Application UI v2.0.0{" "}
+                        Basic AI ChatBot{" "}
                         <span className="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded-sm dark:bg-blue-900 dark:text-blue-300 ms-3">
                             Latest
                         </span>
                     </h2>
-                    <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+                    <time className="block mb-2 text-md font-normal leading-none text-gray-400 dark:text-gray-500">
                         Released on January 13th, 2023
                     </time>
                     <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
