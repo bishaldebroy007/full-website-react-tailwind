@@ -5,7 +5,7 @@ import MyImage from './components/MyImage'
 // import Footer from './components/Footer'
 import IntroCards from './components/IntroCards';
 // import TimeLines from './components/TimeLines';
-import AboutSection from './components/AboutSection';
+// import AboutSection from './components/AboutSection';
 // import Experience from './components/Experience';
 // import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 // import MovingPictures from './components/MovingPictures';
@@ -31,8 +31,8 @@ function App() {
         </div>
 
 
-        <div className=''>
-          <AboutSection />
+        <div>
+
 
         </div>
 

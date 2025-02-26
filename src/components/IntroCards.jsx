@@ -1,4 +1,4 @@
-
+import AboutSection from "./AboutSection"
 
 const IntroCards = () => {
     return (
@@ -197,6 +197,7 @@ const IntroCards = () => {
                             </a>
                         </div>
                     </div>
+                    <AboutSection />
                 </div>
             </div>
 

@@ -5,7 +5,7 @@
 const AboutSection = () => {
     return (
         <>
-            <div id="About-Section" className=" ml-125 mr-20 mb-30 gap-2 p-4 bg-white border border-gray-200 rounded-4xl shadow-lg dark:bg-gray-800 dark:border-gray-700">
+            <div id="About-Section" className="mt-10 mb-10 gap-2 p-4 bg-white border border-gray-200 rounded-4xl shadow-lg dark:bg-gray-800 dark:border-gray-700 ">
                 <ul
                     className="flex flex-wrap text-sm font-medium text-center text-gray-500 border-b border-gray-200 rounded-t-lg bg-gray-50 dark:border-gray-700 dark:text-gray-400 dark:bg-gray-800"
                     id="defaultTab"
@@ -20,7 +20,7 @@ const AboutSection = () => {
                             role="tab"
                             aria-controls="about"
                             aria-selected="true"
-                            className="inline-block text-bold p-4 text-blue-600 rounded-ss-lg hover:bg-gray-100 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-blue-500"
+                            className="inline-block text-bold p-4 text-blue-600 rounded-ss-lg hover:bg-gray-100 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-blue-500 duration-700"
                         >
                             About Me
                         </button>
@@ -33,7 +33,7 @@ const AboutSection = () => {
                             role="tab"
                             aria-controls="services"
                             aria-selected="false"
-                            className="inline-block p-4 hover:text-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-gray-300"
+                            className="inline-block p-4 hover:text-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-gray-300 duration-700"
                         >
                             Education
                         </button>
