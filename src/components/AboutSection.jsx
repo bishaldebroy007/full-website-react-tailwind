@@ -5,7 +5,7 @@
 const AboutSection = () => {
     return (
         <>
-            <div id="About-Section" className="mt-10 mb-10 gap-2 p-4 bg-white border border-gray-200 rounded-4xl shadow-lg dark:bg-gray-800 dark:border-gray-700 ">
+            <div id="About-Section" className="mt-10 mb-10 gap-5 p-2 bg-white border border-gray-200 rounded-4xl shadow-lg dark:bg-gray-800 dark:border-gray-700 ">
                 <ul
                     className="flex flex-wrap text-sm font-medium text-center text-gray-500 border-b border-gray-200 rounded-t-lg bg-gray-50 dark:border-gray-700 dark:text-gray-400 dark:bg-gray-800"
                     id="defaultTab"
@@ -27,11 +27,11 @@ const AboutSection = () => {
                     </li>
                     <li className="me-2">
                         <button
-                            id="services-tab"
+                            id="education-tab"
                             data-tabs-target="#education"
                             type="button"
                             role="tab"
-                            aria-controls="services"
+                            aria-controls="education"
                             aria-selected="false"
                             className="inline-block p-4 hover:text-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-gray-300 duration-700 rounded-4xl"
                         >
@@ -92,9 +92,9 @@ const AboutSection = () => {
                     </div>
                     <div
                         className="hidden p-4 bg-white rounded-lg md:p-8 dark:bg-gray-800"
-                        id="services"
+                        id="education"
                         role="tabpanel"
-                        aria-labelledby="services-tab"
+                        aria-labelledby="education-tab"
                     >
                         {/* <h2 className="mb-5 text-2xl font-extrabold tracking-tight text-gray-900 dark:text-white">
                             We invest in the world’s potential
