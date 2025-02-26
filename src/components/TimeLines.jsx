@@ -2,7 +2,7 @@
 
 const TimeLines = () => {
     return (
-        <div className="my-15 ml-105">
+        <div className="m-4 w-sm p-2">
             <ol className="relative border-s border-gray-100 dark:border-gray-700">
                 <li className="mb-10 ms-6">
                     <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">

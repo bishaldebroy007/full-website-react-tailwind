@@ -1,13 +1,22 @@
 
+// import { useState } from 'react';
 import NavBar from './components/NavBar'
 import MyImage from './components/MyImage'
-import Footer from './components/Footer'
+// import Footer from './components/Footer'
 import IntroCards from './components/IntroCards';
 import TimeLines from './components/TimeLines';
 import AboutSection from './components/AboutSection';
+import Experience from './components/Experience';
+// import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
+// import MovingPictures from './components/MovingPictures';
 
 
 function App() {
+  // const [showAbout, setShowAbout] = useState("About");
+
+  // const handelSwitch = (component) => {
+  //   setShowAbout(component);
+  // }
 
   return (
     <>
@@ -21,14 +30,16 @@ function App() {
           <IntroCards />
         </div>
         <AboutSection />
-        <TimeLines />
 
+        <div>
+          <Experience />
+        </div>
 
       </main>
 
-      <footer>
+      {/* <footer>
         <Footer />
-      </footer>
+      </footer> */}
     </>
   )
 }
