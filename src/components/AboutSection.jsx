@@ -20,7 +20,7 @@ const AboutSection = () => {
                             role="tab"
                             aria-controls="about"
                             aria-selected="true"
-                            className="inline-block text-bold p-4 text-blue-600 rounded-ss-lg hover:bg-gray-100 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-blue-500 duration-700"
+                            className="inline-block text-bold p-4 text-blue-600 rounded-4xl hover:bg-gray-100 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-blue-500 duration-700"
                         >
                             About Me
                         </button>
@@ -28,12 +28,12 @@ const AboutSection = () => {
                     <li className="me-2">
                         <button
                             id="services-tab"
-                            data-tabs-target="#services"
+                            data-tabs-target="#education"
                             type="button"
                             role="tab"
                             aria-controls="services"
                             aria-selected="false"
-                            className="inline-block p-4 hover:text-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-gray-300 duration-700"
+                            className="inline-block p-4 hover:text-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-gray-300 duration-700 rounded-4xl"
                         >
                             Education
                         </button>
