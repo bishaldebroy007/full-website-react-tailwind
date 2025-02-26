@@ -1,5 +1,4 @@
 
-
 import { useEffect } from 'react';
 
 const Gallery = () => {
@@ -29,6 +28,8 @@ const Gallery = () => {
 
         showItem(currentIndex);
     }, []);
+
+
     return (
         <>
             <div id="gallery" className="relative w-auto my-20 items-center" data-carousel="slide">
