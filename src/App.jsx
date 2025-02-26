@@ -2,7 +2,7 @@
 // import { useState } from 'react';
 import NavBar from './components/NavBar'
 import MyImage from './components/MyImage'
-// import Footer from './components/Footer'
+import Footer from './components/Footer'
 import IntroCards from './components/IntroCards';
 import Gallery from './components/Gallery';
 // import TimeLines from './components/TimeLines';
@@ -39,9 +39,9 @@ function App() {
 
       </main>
 
-      {/* <footer>
+      <footer>
         <Footer />
-      </footer> */}
+      </footer>
     </>
   )
 }

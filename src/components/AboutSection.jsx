@@ -5,7 +5,7 @@
 const AboutSection = () => {
     return (
         <>
-            <div id="About-Section" className="mt-10 mb-10 gap-5 p-2 bg-white border border-gray-200 rounded-4xl shadow-lg dark:bg-gray-800 dark:border-gray-700 ">
+            <div id="About-Section" className="mt-8 mb-5 gap-5 p-2 bg-white border border-gray-200 rounded-4xl shadow-lg dark:bg-gray-800 dark:border-gray-700 ">
                 <ul
                     className="flex flex-wrap text-sm font-medium text-center text-gray-500 border-b border-gray-200 rounded-t-lg bg-gray-50 dark:border-gray-700 dark:text-gray-400 dark:bg-gray-800"
                     id="defaultTab"

@@ -32,13 +32,13 @@ const Gallery = () => {
 
     return (
         <>
-            <div id="gallery" className="relative w-auto my-20 items-center" data-carousel="slide">
+            <div id="gallery" className="relative w-auto my-10 mx-10 items-center" data-carousel="slide">
                 {/* Carousel wrapper */}
                 <div className="relative h-56 overflow-hidden rounded-lg md:h-96">
                     {/* Item 1 */}
                     <div className="hidden duration-700 ease-in-out" data-carousel-item="">
                         <img
-                            src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg"
+                            src="https://img.freepik.com/free-photo/sunset-night-landscape-wallpaper_1409-5511.jpg?t=st=1740573037~exp=1740576637~hmac=52e0cca72b9548e7851a913c9958d49636f6b2c1bda642357662480dd165bb5e&w=1380"
                             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                             alt=""
                         />
@@ -49,7 +49,7 @@ const Gallery = () => {
                         data-carousel-item="active"
                     >
                         <img
-                            src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg"
+                            src="https://img.freepik.com/free-photo/men-women-embrace-sunset-generative-ai_188544-12581.jpg?t=st=1740572841~exp=1740576441~hmac=e833ae6c9012289e4c0078eca646b279c8cb5f86ea7e2db2cbc8236d321608d7&w=1380"
                             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                             alt=""
                         />
@@ -57,7 +57,7 @@ const Gallery = () => {
                     {/* Item 3 */}
                     <div className="hidden duration-700 ease-in-out" data-carousel-item="">
                         <img
-                            src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-3.jpg"
+                            src="https://img.freepik.com/free-photo/concept-art-sunset-city_1409-7216.jpg?t=st=1740572905~exp=1740576505~hmac=a2a8ad1cde18f2d9b4260b2a650e56e179f05538c4c764654bf711537400758b&w=1060"
                             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                             alt=""
                         />
@@ -65,7 +65,7 @@ const Gallery = () => {
                     {/* Item 4 */}
                     <div className="hidden duration-700 ease-in-out" data-carousel-item="">
                         <img
-                            src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-4.jpg"
+                            src="https://img.freepik.com/free-photo/nature-mystery-portrayed-tranquil-forest-scene-generative-ai_188544-9755.jpg?t=st=1740573126~exp=1740576726~hmac=82a718a5c7406b1cdc36c4515a7e3d14b095f4a85e6548d00d0a73e7b5da4c57&w=1380"
                             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                             alt=""
                         />
@@ -73,7 +73,7 @@ const Gallery = () => {
                     {/* Item 5 */}
                     <div className="hidden duration-700 ease-in-out" data-carousel-item="">
                         <img
-                            src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg"
+                            src="https://img.freepik.com/free-photo/bright-pop-landscape-design_23-2149213461.jpg?t=st=1740572989~exp=1740576589~hmac=bec2a8a34fc47bb2b3e4995a3c0c80fe866e742b4aebcf8e03f76f51bcf58ad6&w=1060"
                             className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                             alt=""
                         />
