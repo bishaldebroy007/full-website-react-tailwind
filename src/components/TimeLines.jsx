@@ -3,7 +3,7 @@
 const TimeLines = () => {
     return (
         <div className="m-4 w-sm p-2">
-            <ol className="relative border-s border-gray-100 dark:border-gray-700">
+            <ol className="relative border-s border-gray-100 dark:border-gray-700 size-full">
                 <li className="mb-10 ms-6">
                     <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
                         <svg
@@ -23,7 +23,7 @@ const TimeLines = () => {
                         </span>
                     </h2>
                     <time className="block mb-2 text-md font-normal leading-none text-gray-400 dark:text-gray-500">
-                        Currently upder development.
+                        Currently under development.
                     </time>
                     <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
                         Get access to over 20+ pages including a dashboard layout, charts, kanban

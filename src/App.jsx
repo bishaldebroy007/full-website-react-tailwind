@@ -4,9 +4,9 @@ import NavBar from './components/NavBar'
 import MyImage from './components/MyImage'
 // import Footer from './components/Footer'
 import IntroCards from './components/IntroCards';
-import TimeLines from './components/TimeLines';
+// import TimeLines from './components/TimeLines';
 import AboutSection from './components/AboutSection';
-import Experience from './components/Experience';
+// import Experience from './components/Experience';
 // import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 // import MovingPictures from './components/MovingPictures';
 
@@ -25,14 +25,15 @@ function App() {
       </header>
 
       <main>
-        <div className='flex flex-row w-full m-2'>
+        <div className='flex flex-row'>
           <MyImage />
           <IntroCards />
         </div>
-        <AboutSection />
 
-        <div>
-          <Experience />
+
+        <div className=''>
+          <AboutSection />
+
         </div>
 
       </main>

@@ -1,9 +1,11 @@
 
 
+
+
 const AboutSection = () => {
     return (
-        <div className="">
-            <div id="About-Section" className="gap-2 ml-100 mr-48 p-4 bg-white border border-gray-200 rounded-4xl shadow-lg dark:bg-gray-800 dark:border-gray-700">
+        <>
+            <div id="About-Section" className=" ml-125 mr-20 mb-30 gap-2 p-4 bg-white border border-gray-200 rounded-4xl shadow-lg dark:bg-gray-800 dark:border-gray-700">
                 <ul
                     className="flex flex-wrap text-sm font-medium text-center text-gray-500 border-b border-gray-200 rounded-t-lg bg-gray-50 dark:border-gray-700 dark:text-gray-400 dark:bg-gray-800"
                     id="defaultTab"
@@ -176,7 +178,7 @@ const AboutSection = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </>
 
     )
 }

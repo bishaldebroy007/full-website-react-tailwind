@@ -3,7 +3,7 @@
 const IntroCards = () => {
     return (
         <>
-            <section className="bg-white ">
+            <div className="bg-white ">
                 <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
                     <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-4xl hover:dark:bg-gray-700 hover:shadow-lg transition-all duration-300 p-8 md:p-12 mb-8">
                         {/* <a
@@ -52,7 +52,7 @@ const IntroCards = () => {
                         </a>
                     </div>
                     <div className="grid md:grid-cols-3 gap-8">
-                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:dark:bg-gray-700 hover:shadow-lg transition-all duration-300 rounded-4xl p-8 md:p-12">
+                        <div className=" bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:dark:bg-gray-700 hover:shadow-lg transition-all duration-300 rounded-4xl p-8 md:p-12">
                             <a
                                 href="#"
                                 className="bg-green-100 text-green-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-green-400 mb-2"
@@ -198,7 +198,7 @@ const IntroCards = () => {
                         </div>
                     </div>
                 </div>
-            </section>
+            </div>
 
         </>
     )
