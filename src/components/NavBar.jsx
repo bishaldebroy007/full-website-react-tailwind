@@ -1,7 +1,4 @@
-
-
 import { SiOpencv } from "react-icons/si";
-
 
 
 const NavBar = () => {
