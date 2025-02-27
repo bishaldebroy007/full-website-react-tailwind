@@ -32,7 +32,7 @@ const Gallery = () => {
 
     return (
         <>
-            <div id="gallery" className="relative w-auto my-10 mx-10 items-center" data-carousel="slide">
+            <div id="gallery" className="relative w-auto mt-8 mb-20 mx-10 items-center" data-carousel="slide">
                 {/* Carousel wrapper */}
                 <div className="relative h-56 overflow-hidden rounded-lg md:h-96">
                     {/* Item 1 */}

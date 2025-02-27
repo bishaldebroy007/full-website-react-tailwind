@@ -19,7 +19,7 @@ const Linkedin = () => {
                 >
                     <div className="p-3">
                         <div className="flex items-center justify-between mb-2">
-                            <a href="#">
+                            <a href="https://www.linkedin.com/in/bishal-deb-roy-0b31241a0/">
                                 <img
                                     className="w-10 h-10 rounded-full"
                                     src={MyPicture}
@@ -57,7 +57,7 @@ const Linkedin = () => {
                             <li className="me-2 items-center">
                                 <a href="#" className="hover:underline">
                                     <span className="font-semibold text-gray-900 dark:text-white">
-                                        382
+                                        382+
                                     </span>
                                     <span> Connections</span>
                                 </a>

@@ -5,6 +5,7 @@ import MyImage from './components/MyImage'
 import Footer from './components/Footer'
 import IntroCards from './components/IntroCards';
 import Gallery from './components/Gallery';
+import Feature from './components/Feature';
 // import TimeLines from './components/TimeLines';
 // import AboutSection from './components/AboutSection';
 // import Experience from './components/Experience';
@@ -34,7 +35,7 @@ function App() {
 
         <div>
           <Gallery />
-
+          <Feature />
         </div>
 
       </main>

@@ -82,7 +82,7 @@ const TimeLines = () => {
                         </svg>
                     </span>
                     <h3 className="mb-1 text-2xl font-bold text-gray-900 dark:text-blue-950">
-                        Flowbite Library v1.2.2
+                        To-DO List
                     </h3>
                     <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
                         Released on December 2nd, 2021
