@@ -1,4 +1,6 @@
 import MyPicture from '../assets/MyPicture.jpg';
+
+import Linkedin from './Linkedin';
 import TimeLines from './TimeLines';
 
 
@@ -8,7 +10,9 @@ const MyImage = () => {
             <div className="p-2">
                 <img className="rounded-4xl p-2 w-80 h-100 drop-shadow-lg" src={MyPicture} alt="My picture will be added here" />
             </div>
-            <div className="mt-4"> {/* Added margin-top for spacing */}
+            <div className="mt-4">
+                <Linkedin />
+                {/* Added margin-top for spacing */}
                 <TimeLines />
             </div>
         </div>
