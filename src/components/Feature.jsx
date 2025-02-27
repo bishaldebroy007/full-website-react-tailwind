@@ -6,7 +6,7 @@ import { TbBrandTailwind } from "react-icons/tb";
 const Feature = () => {
     return (
 
-        <section className="bg-white dark:bg-gray-900 mx-16 my-5 rounded-3xl shadow-lg ">
+        <section className="bg-white dark:bg-gray-900 mx-16 my-5 rounded-3xl shadow-lg hover:opacity-90 duration-500">
             <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
                 <div className="max-w-screen-md mb-8 lg:mb-16">
                     <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
