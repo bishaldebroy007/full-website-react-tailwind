@@ -52,7 +52,7 @@ const IntroCards = () => {
                         </a>
                     </div>
                     <div className="grid md:grid-cols-3 gap-8">
-                        <div className=" bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:dark:bg-gray-700 hover:shadow-lg transition-all duration-300 rounded-4xl p-8 md:p-12">
+                        <div className=" bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:dark:bg-gray-700 hover:shadow-lg transition-all rounded-4xl p-8 md:p-12 transform hover:scale-105 duration-500">
                             <a
                                 href="#"
                                 className="bg-green-100 text-green-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-green-400 mb-2"
@@ -98,7 +98,7 @@ const IntroCards = () => {
                                 </svg>
                             </a>
                         </div>
-                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:dark:bg-gray-700 hover:shadow-lg transition-all duration-300 rounded-4xl p-8 md:p-12">
+                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:dark:bg-gray-700 hover:shadow-lg transition-all rounded-4xl p-8 md:p-12 transform hover:scale-105 duration-500">
                             <a
                                 href="#"
                                 className="bg-purple-100 text-purple-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-purple-400 mb-2"
@@ -150,7 +150,7 @@ const IntroCards = () => {
                                 </svg>
                             </a>
                         </div>
-                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:dark:bg-gray-700 hover:shadow-lg transition-all duration-300 rounded-4xl p-8 md:p-12">
+                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:dark:bg-gray-700 hover:shadow-lg transition-all rounded-4xl p-8 md:p-12 transform hover:scale-105 duration-500">
                             <a
                                 href="#"
                                 className="bg-rose-100 text-rose-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-rose-400 mb-2"

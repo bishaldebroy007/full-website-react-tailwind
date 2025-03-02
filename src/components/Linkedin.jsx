@@ -7,7 +7,7 @@ const Linkedin = () => {
                 <button
                     data-popover-target="popover-user-profile"
                     type="button"
-                    className="text-white bg-blue-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-3xl text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-gray-600 dark:focus:ring-blue-800 mx-27 shadow-md cursor-progress"
+                    className="text-white bg-blue-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-3xl text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-gray-600 dark:focus:ring-blue-800 mx-27 shadow-md cursor-progress transform hover:scale-115 duration-500"
                 >
                     LinkedIn
                 </button>
