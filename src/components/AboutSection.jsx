@@ -20,7 +20,7 @@ const AboutSection = () => {
                             role="tab"
                             aria-controls="about"
                             aria-selected="true"
-                            className="inline-block text-bold p-4 text-blue-600 rounded-4xl hover:bg-gray-100 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-blue-500 duration-700"
+                            className="inline-block p-3 hover:underline duration-500 cursor-pointer"
                         >
                             About Me
                         </button>
@@ -33,7 +33,7 @@ const AboutSection = () => {
                             role="tab"
                             aria-controls="education"
                             aria-selected="false"
-                            className="inline-block p-4 hover:text-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-gray-300 duration-700 rounded-4xl"
+                            className="inline-block p-3 hover:underline duration-500 cursor-pointer"
                         >
                             Education
                         </button>

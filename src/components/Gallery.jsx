@@ -34,12 +34,12 @@ const Gallery = () => {
         <>
             <div id="gallery" className="relative w-auto mt-8 mb-20 mx-10 items-center" data-carousel="slide">
                 {/* Carousel wrapper */}
-                <div className="relative h-56 overflow-hidden rounded-lg md:h-96">
+                <div className="relative h-56 overflow-hidden md:h-96">
                     {/* Item 1 */}
                     <div className="hidden duration-700 ease-in-out" data-carousel-item="">
                         <img
                             src="https://img.freepik.com/free-photo/sunset-night-landscape-wallpaper_1409-5511.jpg?t=st=1740573037~exp=1740576637~hmac=52e0cca72b9548e7851a913c9958d49636f6b2c1bda642357662480dd165bb5e&w=1380"
-                            className="rounded-3xl absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+                            className="absolute block max-w-full h-auto -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                             alt=""
                         />
                     </div>

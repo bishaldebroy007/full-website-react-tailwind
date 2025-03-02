@@ -22,7 +22,7 @@ const Footer = () => {
 
                             <div>
                                 <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
-                                    Connect With me
+                                    Connect
                                 </h2>
                                 <ul className="text-gray-500 dark:text-gray-400 font-medium">
                                     <li className="mb-4">
@@ -49,13 +49,13 @@ const Footer = () => {
                                 </h2>
                                 <ul className="text-gray-500 dark:text-gray-400 font-medium">
                                     <li className="mb-4">
-                                        <a href="https://flowbite.com/" className="hover:underline">
-                                            Flowbite
+                                        <a href="https://orcid.org/my-orcid?orcid=0009-0000-8224-4866" className="hover:underline">
+                                            ORCiD
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://tailwindcss.com/" className="hover:underline">
-                                            Tailwind CSS
+                                        <a href="https://dl.acm.org/doi/abs/10.1145/3674829.3675083" className="hover:underline">
+                                            Paper on HCI
                                         </a>
                                     </li>
                                 </ul>
