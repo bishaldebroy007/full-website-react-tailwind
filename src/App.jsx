@@ -27,7 +27,7 @@ function App() {
       </header>
 
       <main>
-        <div className='flex flex-row'>
+        <div className='flex flex-col sm:flex-row md:flex-row'>
           <MyImage />
           <IntroCards />
         </div>
